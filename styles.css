@@ -1,0 +1,123 @@
+header{
+    background-color: brown;
+}
+table{width: 100%; padding-left: 20px; padding-right: 20px; padding-bottom: 20px;}
+tr{border-bottom:1px solid black ;
+    display: flex;
+}
+
+
+.inputType{
+     margin-left: 50px;
+}
+
+.inputtype1{
+     margin-left:40px ;
+}
+
+.inputtype2{
+    margin-left: 210px;
+}
+
+.inputtype3{
+    margin-left: 150px;
+}
+
+.inputtype4{
+    margin-left:30px ;
+}
+
+.inputypep{
+    margin-left:20px ;
+}
+
+.inputyper{
+    margin-left: 30px;
+}
+
+.inputtypeq{
+    margin-left: 30px;
+}
+
+.inputtype5{
+    margin-left:150px ;
+}
+
+.inputtype6{
+    margin-left:30px ;
+}
+
+.inputtypea{
+    margin-left: 20px;
+}
+
+.inputtypeb{
+    margin-left: 30px;
+}
+
+.inputypec{
+    margin-left: 30px;
+
+}
+
+
+.inputtype7{
+    margin-left: 40px;
+}
+
+.inputtype8a{
+    margin-left: 140px;
+}
+
+.inputtype8b{
+    margin-left: 70px;
+}
+
+.inputtype9a{
+    margin-left: 5px;
+}
+
+.inputtype9b{
+    margin-left: 35px;
+}
+
+.inputtype10{
+    margin-left: 170px;
+}
+
+
+.inputtype11{
+    margin-left: 120px;
+}
+
+.inputType12{
+    margin-left: 120px;
+}
+
+.inputtype13{
+    margin-left: 70px;
+}
+
+.inputtype14{
+    margin-left: 40px;
+}
+
+.inputtype15{
+    margin-left: 130px;
+}
+
+.inputtype16{
+    margin-left: 120px;
+}
+
+
+.inputtype17{
+    margin-left: 220px;
+}
+
+.inputtype18{
+    margin-left: 60px;
+}
+
+
+
